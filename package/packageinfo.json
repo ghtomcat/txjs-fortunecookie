@@ -1,0 +1,12 @@
+{
+  "id": "com.palmdts.txjsfortune",
+  "package_format_version": 2,
+  "loc_name": "TxJS 2011 Fortune Cookie",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "miniicon": "icon.png",
+  "vendor": "HP",
+  "vendorurl": "hp.com",
+  "app": "com.palmdts.txjsfortune.app",
+  "services": ["com.palmdts.txjsfortune.service"]
+}

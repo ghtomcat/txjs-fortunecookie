@@ -1,0 +1,10 @@
+{
+    "id": "com.palmdts.txjsfortune.app",
+    "version": "1.0.0",
+    "vendor": "HP",
+    "type": "web",
+    "main": "index.html",
+    "title": "TxJS 2011 Fortune",
+    "icon": "Fortune_cookie_64x64.png",
+	"uiRevision": 2
+}
